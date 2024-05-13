@@ -1,7 +1,7 @@
 # proyecto de ted
 Esto es una prueba 
 sobre como se puedo
-emaquetar el interior de
+maquetar el interior de
 la pagina de ted.com. 
  
 Esto realizo con HTML,
